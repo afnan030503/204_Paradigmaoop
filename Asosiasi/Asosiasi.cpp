@@ -19,7 +19,7 @@ public:
 
 class dokter {
 public:
-	string nama;
+	string nama; 
 	vector<pasien*> daftar_pasien;
 
 	dokter(string pNama) :nama(pNama) {
