@@ -5,7 +5,7 @@ using namespace std;
 class mahasiswa {
 private: 
 	const int id;
-	string nama; 
+	string nama;
 	float nilai;
 
 public:
