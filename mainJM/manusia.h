@@ -1,6 +1,6 @@
 #pragma once
 #ifndef MANUSIA_H
-#define MANUSIA_H
+#define MANUSIA_H 
 using namespace std;
 #include <iostream>
 #include "jantung.h"
