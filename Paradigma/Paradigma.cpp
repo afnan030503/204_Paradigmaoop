@@ -8,6 +8,6 @@ private:
 	string nama;
 	float nilai; 
 
-public:
+public: 
 	mahasiswa
 };
